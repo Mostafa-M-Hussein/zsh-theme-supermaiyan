@@ -1,4 +1,4 @@
-# Super Saiyan Prompt ⚡
+# Super Saiyan ZTheme ⚡
 
 A Dragon Ball Z-themed Zsh prompt and transformation system. Because your terminal deserves to go Super Saiyan too.
 
